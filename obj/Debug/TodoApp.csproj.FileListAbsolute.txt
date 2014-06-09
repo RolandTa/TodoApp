@@ -1,0 +1,5 @@
+C:\Work\Temp\TodoApp\obj\Debug\TodoApp.csprojResolveAssemblyReference.cache
+C:\Work\Temp\TodoApp\bin\TodoApp.dll
+C:\Work\Temp\TodoApp\bin\TodoApp.pdb
+C:\Work\Temp\TodoApp\obj\Debug\TodoApp.dll
+C:\Work\Temp\TodoApp\obj\Debug\TodoApp.pdb
